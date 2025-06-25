@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 from datetime import datetime
 import asyncio
-BOT_TOKEN = "MTM4NzA1MDA0MDU1NTQ3MTAwMA.GxSxAe.PPxP_hDDlyF9BxHAeUi_G78KCqkTTCeTIM-O3k" 
+BOT_TOKEN = "MTM4NzA1MDA0MDU1NTQ3MTAwMA.GR-Tuv.OvEGU15smKdFDpC-bKUAah-Hsf7-bKYhmn-K7Y" 
 EMBED_IMAGE_URL = "https://cdn.blacked.com/scene/videoimages/100024/mainLandscape/1538996342179/blacked-tiny-blonde-teen-takes-huge-black-cock_1920x1080.jpeg"
 
 intents = discord.Intents.default()
